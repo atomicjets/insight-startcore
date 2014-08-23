@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "microtime": "~1.0.1",
-    "insight-startcore-api": "git://github.com/atomicjets/insight-startcore-api.git#672a0d1e6f61bc7bf13e1763a08fb1c6b593b85c"
+    "insight-startcore-api": "git://github.com/atomicjets/insight-startcore-api.git#c48b2aa26535b8ed17cdb046c6a929347189f8b2"
   },
   "devDependencies": {
     "bower": "~1.2.8",
